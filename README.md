@@ -18,7 +18,7 @@ Key Features:
     Accessible Design: Ensures that the content is available to all users, meeting accessibility standards for broader reach.
     Responsive Interface: Optimized for both desktop and mobile viewing, making the information readily available across devices.
 
-Visit the live project here: Safeguarding Project
+Visit the live project here: [Safeguarding Project](https://tbuchan1997.github.io/safeguarding-project/)
 
 > *See more of my work [here](link-to-portfolio-website) as I continue to develop my skills!*
 
@@ -29,8 +29,10 @@ Visit the live project here: Safeguarding Project
 Here, I dive into JavaScript fundamentals with small projects that help me practice core concepts, problem-solving, and interactive web features.
 
 - **[JavaScript Project 1](link-to-project)**: Description (e.g., *"Simple to-do list with local storage and filtering options"*).
-- **[JavaScript Project 2](link-to-project)**: Description (e.g., *"Weather app that uses Fetch API to display real-time data"*).
-- **[JavaScript Project 3](link-to-project)**: Description (e.g., *"Interactive number guessing game that teaches DOM manipulation"*).
+- **[Progress Steps]([link-to-project](https://tbuchan1997.github.io/JS2-Progress-Steps/))**: Progress bar for use while filling in e.g. a multipage form.
+- **[Rotating Navbar]([link-to-project](https://tbuchan1997.github.io/JS3-Rotating-Nav/))**: Using CSS to create a navbar which appears by rotating the page.
+- **[Hidden Search]([link-to-project](https://tbuchan1997.github.io/JS3-Rotating-Nav/))**: Creates a searchbar which retracts/expands when clicked.
+- **[Hidden Search]([link-to-project](https://tbuchan1997.github.io/JS3-Rotating-Nav/))**: Creates a loading screen with a progress bar and unblurring image.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
