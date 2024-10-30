@@ -34,6 +34,7 @@ Here, I dive into JavaScript fundamentals with small projects that help me pract
 - **[Hidden Search](https://tbuchan1997.github.io/JS4-Hidden-Search/)**: Creates a searchbar which retracts/expands when clicked.
 - **[Blurry loading screen](https://tbuchan1997.github.io/JS5-Blurred-loading/)**: Creates a loading screen with a progress bar and unblurring image.
 - **[Scroll animations](https://tbuchan1997.github.io/JS6-Scroll-Animation/)**: Basic JS scroll animations with sections coming in from alternating sides.
+- **[Split landing page](https://tbuchan1997.github.io/JS7-Split-Landing-Page/)**: Landing page where the size of each half changes when the mouse enters/leaves.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
