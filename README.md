@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Tom Buchan]
+# Hello! 👋 I'm Tom Buchan
 
 I'm an aspiring developer on a journey to build a strong foundation in web development! My GitHub is home to projects that showcase my progress and learning across HTML, CSS, and JavaScript. I’m continuously expanding my skills and looking for new ways to create impactful projects. Feel free to explore my work below and join me on this journey!
 
@@ -29,10 +29,10 @@ Visit the live project here: [Safeguarding Project](https://tbuchan1997.github.i
 Here, I dive into JavaScript fundamentals with small projects that help me practice core concepts, problem-solving, and interactive web features.
 
 - **[JavaScript Project 1](link-to-project)**: Description (e.g., *"Simple to-do list with local storage and filtering options"*).
-- **[Progress Steps]([link-to-project](https://tbuchan1997.github.io/JS2-Progress-Steps/))**: Progress bar for use while filling in e.g. a multipage form.
-- **[Rotating Navbar]([link-to-project](https://tbuchan1997.github.io/JS3-Rotating-Nav/))**: Using CSS to create a navbar which appears by rotating the page.
-- **[Hidden Search]([link-to-project](https://tbuchan1997.github.io/JS3-Rotating-Nav/))**: Creates a searchbar which retracts/expands when clicked.
-- **[Hidden Search]([link-to-project](https://tbuchan1997.github.io/JS3-Rotating-Nav/))**: Creates a loading screen with a progress bar and unblurring image.
+- **[Progress Steps](https://tbuchan1997.github.io/JS2-Progress-Steps/)**: Progress bar for use while filling in e.g. a multipage form.
+- **[Rotating Navbar](https://tbuchan1997.github.io/JS3-Rotating-Nav/)**: Using CSS to create a navbar which appears by rotating the page.
+- **[Hidden Search](https://tbuchan1997.github.io/JS4-Hidden-Search/)**: Creates a searchbar which retracts/expands when clicked.
+- **[Blurry loading screen](https://tbuchan1997.github.io/JS5-Blurred-Loading/)**: Creates a loading screen with a progress bar and unblurring image.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
