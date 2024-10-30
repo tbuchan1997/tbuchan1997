@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hello! 👋 I'm [Tom Buchan]
 
-<!--
-**tbuchan1997/tbuchan1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer on a journey to build a strong foundation in web development! My GitHub is home to projects that showcase my progress and learning across HTML, CSS, and JavaScript. I’m continuously expanding my skills and looking for new ways to create impactful projects. Feel free to explore my work below and join me on this journey!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Project Portfolio
+
+These projects represent my journey as a new developer, where I apply what I've learned and challenge myself to build functional, user-friendly applications.
+
+Safeguarding Project
+
+The Safeguarding Project is an informational website focused on promoting awareness and providing resources around safeguarding practices. Designed with simplicity and accessibility in mind, this project serves as a digital guide to safeguarding, covering essential guidelines, policies, and support resources for individuals and organizations alike.
+
+Key Features:
+
+    Clear, Structured Layout: Organized sections for easy navigation and quick access to relevant information.
+    Accessible Design: Ensures that the content is available to all users, meeting accessibility standards for broader reach.
+    Responsive Interface: Optimized for both desktop and mobile viewing, making the information readily available across devices.
+
+Visit the live project here: Safeguarding Project
+
+> *See more of my work [here](link-to-portfolio-website) as I continue to develop my skills!*
+
+---
+
+## 📚 JavaScript Mini Projects
+
+Here, I dive into JavaScript fundamentals with small projects that help me practice core concepts, problem-solving, and interactive web features.
+
+- **[JavaScript Project 1](link-to-project)**: Description (e.g., *"Simple to-do list with local storage and filtering options"*).
+- **[JavaScript Project 2](link-to-project)**: Description (e.g., *"Weather app that uses Fetch API to display real-time data"*).
+- **[JavaScript Project 3](link-to-project)**: Description (e.g., *"Interactive number guessing game that teaches DOM manipulation"*).
+
+Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
+
+---
+
+## 🎨 HTML/CSS Guided Projects
+
+These projects focus on building a solid base in HTML and CSS. Each project strengthened my understanding of responsive design, layout techniques, and creative styling.
+
+- **[HTML/CSS Project 1](link-to-project)**: Description (e.g., *"Personal portfolio site using flexbox and grid"*).
+- **[HTML/CSS Project 2](link-to-project)**: Description (e.g., *"Simple landing page with animations to enhance UX"*).
+- **[HTML/CSS Project 3](link-to-project)**: Description (e.g., *"E-commerce product page designed for mobile-first responsiveness"*).
+
+These guided projects have been an essential part of learning layout design and aesthetics in web development.
+
+---
+
+## 📫 Connect with Me
+
+I’m always excited to connect with other developers, learn from their experiences, and find new inspiration. Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](link-to-your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](link-to-your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=google-chrome)](link-to-your-portfolio)
+
+Thank you for checking out my profile! I’m excited to continue growing and sharing my progress here. Happy coding!
+
