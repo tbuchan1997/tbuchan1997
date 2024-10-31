@@ -40,6 +40,7 @@ Here, I dive into JavaScript fundamentals with small projects that help me pract
 - **[Joke Generator](https://tbuchan1997.github.io/JS10-dad-joke-generator/)**: Uses fetch to generate random jokes from ihazdadjokes.com. Main purpose is to practice http pull requests.
 - **[Keyboard Code](https://tbuchan1997.github.io/JS11-event-key-codes/)**: Generates the keyboard codes for key presses.
 - **[Collapsing FAQs](https://tbuchan1997.github.io/JS12-FAQ-collapse/)**: FAQ page with collapsible sections.
+- **[Random Selector](https://tbuchan1997.github.io/JS13-random-picker/)**: Randomly selects an item from a list.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
