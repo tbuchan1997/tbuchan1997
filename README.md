@@ -39,6 +39,7 @@ Here, I dive into JavaScript fundamentals with small projects that help me pract
 - **[Sound Board](https://tbuchan1997.github.io/JS9-sound-board/)**: Sound board which plays on a mouseclick.
 - **[Joke Generator](https://tbuchan1997.github.io/JS10-dad-joke-generator/)**: Uses fetch to generate random jokes from ihazdadjokes.com. Main purpose is to practice http pull requests.
 - **[Keyboard Code](https://tbuchan1997.github.io/JS11-event-key-codes/)**: Generates the keyboard codes for key presses.
+- **[Collapsing FAQs](https://tbuchan1997.github.io/JS12-FAQ-collapse/)**: FAQ page with collapsible sections.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
