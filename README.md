@@ -36,6 +36,7 @@ Here, I dive into JavaScript fundamentals with small projects that help me pract
 - **[Scroll animations](https://tbuchan1997.github.io/JS6-Scroll-Animation/)**: Basic JS scroll animations with sections coming in from alternating sides.
 - **[Split landing page](https://tbuchan1997.github.io/JS7-Split-Landing-Page/)**: Landing page where the size of each half changes when the mouse enters/leaves.
 - **[Form wave animation](https://tbuchan1997.github.io/JS8-form-wave-animation/)**: Form animation with a wave when you click the inputs.
+- **[Sound Board](https://tbuchan1997.github.io/JS9-sound-board/)**: Sound board which plays on a mouseclick.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
