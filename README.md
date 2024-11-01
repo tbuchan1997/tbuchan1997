@@ -44,6 +44,8 @@ Here, I dive into JavaScript fundamentals with small projects that help me pract
 - **[Navbar with spinning transition](https://tbuchan1997.github.io/JS14-animated-nav/)**: Navbar with CSS transitions to change between active and inactive class.
 - **[Incrementing counter](https://tbuchan1997.github.io/JS15-incrementing-counter/)**: Creates a counter which increments upto a target number.
 - **[Water Tracker](https://tbuchan1997.github.io/JS16-drink-water/)**: Creates a tracker of how much water you've drunk in a day.
+- **[Movie database](https://tbuchan1997.github.io/JS17-movie-app/)**: Uses an API to pull movies, scores, and overviews.
+- 
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
