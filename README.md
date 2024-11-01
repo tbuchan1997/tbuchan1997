@@ -47,6 +47,7 @@ Here, I dive into JavaScript fundamentals with small projects that help me pract
 - **[Movie database](https://tbuchan1997.github.io/JS17-movie-app/)**: Uses an API to pull movies, scores, and overviews.
 - **[Image gallery slider](https://tbuchan1997.github.io/JS18-background-slider/)**: Gallery with buttons to cycle through images.
 - **[24Hr Clock](https://tbuchan1997.github.io/JS19-clock/)**: Functional clock which displays time and date.
+- **[Button Ripple Effect](https://tbuchan1997.github.io/JS20-button-ripple/)**: Clickable button with a ripple animation. Animation originates from the point of the mouse click.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
