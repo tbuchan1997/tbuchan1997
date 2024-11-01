@@ -45,7 +45,7 @@ Here, I dive into JavaScript fundamentals with small projects that help me pract
 - **[Incrementing counter](https://tbuchan1997.github.io/JS15-incrementing-counter/)**: Creates a counter which increments upto a target number.
 - **[Water Tracker](https://tbuchan1997.github.io/JS16-drink-water/)**: Creates a tracker of how much water you've drunk in a day.
 - **[Movie database](https://tbuchan1997.github.io/JS17-movie-app/)**: Uses an API to pull movies, scores, and overviews.
-- 
+- **[Image gallery slider](https://tbuchan1997.github.io/JS18-background-slider/)**: Gallery with buttons to cycle through images.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
