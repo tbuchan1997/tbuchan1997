@@ -53,6 +53,7 @@ Here, I dive into JavaScript fundamentals with small projects that help me pract
 - **[Dynamic Loader](https://tbuchan1997.github.io/JS23-dynamic-css-loader/)**: Practicing CSS animations with a dynamic loader.
 - **[Content Placeholder](https://tbuchan1997.github.io/JS24-content-placeholder/)**: Mock loading animation for a website using css and JS to input the html after a delay.
 - **[Sticky Navbar](https://tbuchan1997.github.io/JS25-sticky-navbar/)**: Navbar which sticks to the top. Adds an active class which adjusts styling on scroll.
+- -**[Vertical Slider](https://tbuchan1997.github.io/JS26-double-vertical-slider/)**: Photo gallery with vertical sliders.
 
 Each project here has helped me solidify my understanding of JavaScript fundamentals and explore its potential!
 
