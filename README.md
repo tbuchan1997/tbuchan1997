@@ -14,11 +14,9 @@ The Safeguarding Project is an informational website focused on promoting awaren
 
 Key Features:
 
-    Clear, Structured Layout: Organized sections for easy navigation and quick access to relevant information.
-    Accessible Design: Ensures that the content is available to all users, meeting accessibility standards for broader reach.
-    Responsive Interface: Optimized for both desktop and mobile viewing, making the information readily available across devices.
+    
 
-Visit the live project here: [Safeguarding Project](https://tbuchan1997.github.io/safeguarding-project/)
+Visit the live project here: 
 
 > *See more of my work [here](link-to-portfolio-website) as I continue to develop my skills!*
 
