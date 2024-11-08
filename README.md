@@ -26,7 +26,6 @@ Visit the live project here:
 
 Here, I dive into JavaScript fundamentals with small projects that help me practice core concepts, problem-solving, and interactive web features.
 
-- **[JavaScript Project 1](link-to-project)**: Description (e.g., *"Simple to-do list with local storage and filtering options"*).
 - **[Progress Steps](https://tbuchan1997.github.io/JS2-Progress-Steps/)**: Progress bar for use while filling in e.g. a multipage form.
 - **[Rotating Navbar](https://tbuchan1997.github.io/JS3-Rotating-Nav/)**: Using CSS to create a navbar which appears by rotating the page.
 - **[Hidden Search](https://tbuchan1997.github.io/JS4-Hidden-Search/)**: Creates a searchbar which retracts/expands when clicked.
